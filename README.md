@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> <h1 align="center">Hi 👋, I'm Sherlyn Hernandez-Ponce</h1>
-<h3 align="center">I am a student learning to code for fun.</h3>
+<h3 align="center">I am a 17yr old learning to code for fun. </h3>
+<h3 align="center">I love capybaras and sharks. </h3>
 
-- 🌱 I’m currently learning **javascript,css,html**
+- 🌱 I’m currently learning **Javascript,css,html**
 
 - 📫 How to reach me **sherlynhernandezponce@gmail.com**
 
@@ -34,36 +35,23 @@ Here are some ideas to get you started:
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+If you want to reach out to me about anything, I am always open to making new friends and chatting. 
 
 
-If you want to reach out to me about anything, im always open to making new friends and chatting.
+ ![GIF](https://media.giphy.com/media/cRHgphdnVZMtRLZlT1/giphy.gif)
 
-<a href="sherlynhernandezponce@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
+</br>
+
+
+
 </br>
 </br>
 </br>
-</a>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >   
  
-</a>
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
